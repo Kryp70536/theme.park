@@ -10,6 +10,7 @@ let custom_text_header = `
 
 div {
   padding-top: 15px;
+  padding-bottom: 10px;
 }
     __                         ___          
    / /__  ____  ____  __  __  / (_)   _____ 
