@@ -9,7 +9,7 @@ let custom_text_header = `
 <div class="custom-text-header"> <pre>    
 
 div {
-  padding: 20px 0px 0px;
+  padding-top: 20px;
 }
     __                         ___          
    / /__  ____  ____  __  __  / (_)   _____ 
