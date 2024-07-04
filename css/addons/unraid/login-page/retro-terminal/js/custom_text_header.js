@@ -7,7 +7,6 @@
 
 let custom_text_header = `
 <div class="custom-text-header"> <pre>    
-
 div {
   padding-top: 20px;
 }
