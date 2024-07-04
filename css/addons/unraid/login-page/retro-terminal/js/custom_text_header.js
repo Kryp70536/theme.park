@@ -8,16 +8,14 @@
 let custom_text_header = `
 <div class="custom-text-header"> <pre>    
 
-div {
-  padding-top: 15px;
-  padding-bottom: 10px;
-}
+
     __                         ___          
    / /__  ____  ____  __  __  / (_)   _____ 
   / / _ \\/ __ \\/ __ \\/ / / / / / / | / / _ \\
  / /  __/ / / / / / / /_/ / / / /| |/ /  __/,&lt;
 /_/\\___/_/ /_/_/ /_/\\__, (_)_/_/ |___/\\___/ 
                    /____/ 
+
                    
                               </pre> </div>
 `;
